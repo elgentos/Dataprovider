@@ -1,0 +1,5 @@
+app/code/community/Elgentos/Dataprovider app/code/community/Elgentos/Dataprovider
+app/design/frontend/base/default/layout/dataprovider.xml app/design/frontend/base/default/layout/dataprovider.xml
+app/etc/modules/Elgentos_Dataprovider.xml app/etc/modules/Elgentos_Dataprovider.xml
+js/elgentos/dataprovider.js js/elgentos/dataprovider.js
+js/jquery/* js/jquery/
